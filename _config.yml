@@ -20,8 +20,6 @@ url: http://aronbordin.com/neo-hpstr-jekyll-theme
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'About'
-    url: '/about'
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
