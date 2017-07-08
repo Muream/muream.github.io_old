@@ -1,0 +1,97 @@
+---
+layout: post
+title: The Last Of Us – No Cut-scene Edition – Joel's Birthday
+image:
+    feature: 01-TheLastOfUs-NoCutSceneEdition-JoelsBirthday.png
+categories: [Game Design, The Last Of Us]
+excerpt:
+    <p>
+        <b>Obligatory Spoiler alert:</b><br />
+        This post contains spoilers, some minor but also some major ones. The major ones will be in spoiler tags, but the minor ones won’t. If you haven’t played the game and are interested by it, please do so before reading these.
+    </p>
+    <p>
+    <p>Anyway, here’s the cut-scene i’m going to tackle today:</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/oaUFPiwifOA" frameborder="0" allowfullscreen></iframe>
+    </p>
+
+---
+**Obligatory Spoiler alert:**  
+This post contains spoilers, some minor but also some major ones. The major ones will be in spoiler tags, but the minor ones won’t. If you haven’t played the game and are interested by it, please do so before reading these.
+
+Anyway, here’s the cut-scene i’m going to tackle today:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oaUFPiwifOA" frameborder="0" allowfullscreen></iframe>
+
+For those who can’t watch it:
+Joel comes home late at night from what seems a long day of work. His daughter, Sarah, is asleep on the couch. He wakes her up and sits with her. It’s Joel’s Birthday and Sarah offers him a present: a new watch, since He kept complaining about it’s broken one. They talk a bit and Sarah falls back asleep on the couch. Joel picks her up and takes her to her bed.
+
+<!-- more -->
+
+## Analysis
+
+This cut-scene is does a very good job at introducing the two characters to us. The fact that the camera doesn’t go further than an American shot means the director wants us to have a peek at the characters’ life, from the inside.  
+Instead of presenting us Joel by showing him to us , the first shot let’s us hear him first: Whatever he says, the way he says it will define him. He is on the phone, talking about work and how he can’t lose a certain job or in his words: “I can’t lose this job”, meaning he probably doesn’t have a stable job but jumps from one to the other.  
+From what we saw in the few seconds preceding this (Sarah’s asleep, the only source of light is the moon, there’s no ambient sound but the clock ticking, etc), we know Joel came home late and based on what he just said, we can imagine he was working.  
+The next two shots tell us how tiring it is for him to work these extra hours, mostly from his facial expressions and body language and with one sentence: “Honey please not right now, I do not have the energy for this.” His daughter is an animated thirteen-ish years old girl, and he’s an exhausted single dad.
+
+The two have a pretty casual relationship, acting more like buddies than family. They won’t show explicit feelings but will find ways to express them, even if more discreet.  
+For example, they both instinctively make ironic jokes rather than being honest or revealing their feelings.
+This is a bit less true for Sarah though, she did offer him a new watch because his old one was broken and Joel kept complaining about it. This shows both care and attention from her side.  
+On the other hand, Joel doesn’t thank her for the gift but fakes the watch being stuck instead. This makes Sarah panic a bit until she realizes it’s not and reacts with an annoyed “Oh ha ha” as if she’s used to this kind of jokes.  
+But this doesn’t make Joel a bad father, rather a cool dad. He barely complains that Sarah is up this late and lets her fall back asleep on the couch while he watches TV. This definitely not him not caring, more like him being too tired to argue. He does take her to her bed without waking her up which is something few dads would do. Combined with the “Good night baby girl”, this is his _i’ll show my feelings when you can’t see them moment._  
+
+<details class="spoiler"> 
+  <summary class="spoiler-title">Major Spoiler</summary>
+  <div class="spoiler-content">
+    What Joel does in the last two shots is very reminiscent of the end of the game. When Joel holds Ellie who’s unconscious in his arms after freeing her from the surgeons. He even calls her “baby girl”. One thing differs though, for Ellie’s case, he does this to save her from her death as opposed to taking her to her bed. We already get a glance at what is expecting us in the next 10 hours or so, and it’s been 2 minutes since the game started.
+  </div>
+</details>
+
+## Adaptation
+First let’s understand what we need to achieve. The cut-scene shows us a few different things:  
+- The two character love each other, even if they won’t show it explicitly
+- They have each other’s back:
+    - Joel works hard and late
+    - Sarah offers him a watch because he’s been complain about it for a while
+- The scene is reminiscent of what will happen with Ellie.
+
+If we want to stay true to the original creation, we need to have all these thing, in a way or another.
+
+The first thing we need to decide is whether we play as Joel or Sarah. I liked playing as Sarah in the original game but this cutscene may be hard to adapt from Sarah’s point of view. We don’t know anything more than Joel, and Sarah is the only one to know she’s offering a watch, she’s even the only one to know it’s Joel’s birthday. I don’t want a “press A to give Joel a nice watch because his old one is broken” moment, this would cause no empathy at all from the player. If you read this and think of a way to play as Sarah, I’m all ears, in the meantime, Joel it is.
+
+The first thing we need to decide is whether we play as Joel or Sarah. I liked playing as Sarah in the original game but this cutscene may be hard to adapt from Sarah’s point of view. We don’t know anything more than Joel, and Sarah is the only one to know she’s offering a watch, she’s even the only one to know it’s Joel’s birthday. I don’t want a “press A to give Joel a nice watch because his old one is broken” moment, this would cause no empathy at all from the player. If you read this and think of a way to play as Sarah, I’m all ears, in the meantime, Joel it is.
+
+Next choice would be third vs first person (or I vs. He). And I’m not set on that either.
+A Third person point of view would make sense because we are telling the story of a character and seeing the actual character, how he moves, etc can help the player build empathy. Basically, it offers more ways for us to build the character and the player would have little to no impact on that.  
+However first person would connect the player and the character directly because since what the player sees is what the character sees. Nothing more, nothing less. Leading to a more immersive experience.  
+I can’t help but imagine this in First person so let’s do that for now, but it lacks backing and I would gladly discuss it further.
+
+The cut-scene (and the whole game as a matter of fact) relies heavily on the characters discussion. I’m not a big fan of dialog system on the video games I’ve played, as it reminds me I’m playing a game but I can’t imagine this adaptation without one. No multiple endings and whatnot though. Just a way for the player to connect more with the characters and more importantly, his avatar. Firewatch had one almost like this, you had some choices to make but most of them didn’t impact the storyline (if not all of them) I just allows the player to have some impact on who his avatar is and therefore, feeling more connected to the character.
+
+Now let’s start talking about the actual adaptation.
+
+Since we are playing as Joel we can start a bit before the beginning of the cut-scene.
+Black screen, we hear a car running and Joel speaking on the phone about work with tommy, The player controls what Joel says. The conversation should  teach the player that Joel works a lot, maybe states that he has a daughter but we’ll focus on that later.
+
+Two ideas for the next bit:
+- The black screen fades out and we’re in Joel’s car, almost home. The player doesn’t drive, to represent Joel mindlessly coming home.The conversation with his brother goes on until Joel is actually home.
+- The black screen fades out and Joel just parked and is coming out of his car, we control him instantly.
+
+I like the idea of the first one better but it might not play well and won’t necessarily feel like Joel is driving mindlessly.
+
+Everything should show that it’s late: It’s night (obviously), the radio in the car indicates 11:30 PM or so, there’s no traffic, the street lights are on, etc. This is also a good time to show where Joel lives and that he’s an average American.  
+Once Joel is out of his car, everything should point him to go inside his house. (the camera is facing the door, the light on the porch, color of the door, etc). When the player’s in, Sarah wakes up and they starts talking. The player can both control Joel and speak to Sarah. Meaning he can move around the house and the conversation should shift accordingly. Every possible side dialog should help explaining their relation to the player.  
+First idea that pops in my mind: the player goes in the kitchen and Sarah offers to make him a sandwich, showing affection from her part and how she’s dedicated to her dad.
+At some point, if the player hasn’t complained about Sarah being up late, she will notice the time grab the him to the couch (if he hasn’t sat down already) and offer him the watch. The player has no option to say thanks but rather a few jokes including the fake broken watch one. Sarah lays down saying “Oh ha ha”. The conversation goes on until Sarah falls asleep.
+
+At this point, the cut-scene jumps to the moment where Joel takes his daughter to her bed. An ellipse would be weird in game, especially a few minutes after the beginning.  
+This is how I see it : The player can wander around a few minutes, literally watch TV, change the channel, go grab something to eat, take a look a photo of the both of them. The TV could vaguely start talking about the increase rate of admission in the hospitals lately. It’s a good time to start building the background, without being to direct or cliché.  
+After some time and with the player near Sarah Joel says something like “let’s take you to bed”. Joel is telling the player what to do, he has been the Sarah’s father for thirteen-ish years, and knows best.
+
+> The avatar is literally telling the player what he should do. Something the player has been doing with the avatar since the beginning. This is not a denial of interaction rather a way for Joel to teach the player how to act in his position, since that’s what’s about to happen for a few hours. This should be used sparingly and only when it makes sense.
+
+The player then takes her to her bed, and her room should be subtly obvious (like the only door that’s already opened and therefore doesn’t need any action to) so that the player doesn’t wander around the house too long.  
+While this is happening, the main theme starts playing and stops right after Joel says “goodnight baby girl”.  
+Fade to black.
+
+## Conclusion
+This is my take on this first cut-scene and I would love to hear what you thought of it, good or bad. The next one will probably be a small one on the part where we play Sarah and the introduction to what’s going on, although there’s probably not much to change, we’ll see.
